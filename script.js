@@ -1,0 +1,2 @@
+// External JS: script.js
+
